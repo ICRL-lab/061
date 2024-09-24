@@ -39,7 +39,7 @@ The preprocessing steps of the proposed project are the following:
 
 ## Models
 
-For the <Recyclables Detection in Garbage> following models were trained with the default parameters:
+For the Recyclables Detection in Garbage following models were trained with the default parameters:
 
 - **YoloV8**
 
@@ -50,7 +50,6 @@ The results of the trained model are the following:
 - MAP: 0.83
 - IOU: 0.75
 
-<img src = Yolov8_detection/result_image.jpg>
 
 ## Dependencies
 
